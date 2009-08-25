@@ -5,11 +5,7 @@
  * PHP version 5
  *
  * @category Helper
- * @package  BudgetPulse
  * @author   Ketan Shah <ketan.shah@innovatechnologies.in>
- * @license  http://www.isquareinc.com/ Copyright: iSquare, Inc.
- * @version  SVN: $Id$  
- * @link     http://www.budgetpulse.com/
  */
 
 /**
@@ -18,10 +14,7 @@
  * This helper acts as a wrapper for 3-rd party minify
  *
  * @category Helper
- * @package  BudgetPulse
  * @author   Ketan Shah <ketan.shah@innovatechnologies.in>
- * @license  http://www.isquareinc.com/ Copyright: iSquare Inc.
- * @link     http://www.budgetpulse.com/
  */
 class MinifyHelper extends AppHelper
 {
